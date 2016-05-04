@@ -1,5 +1,14 @@
 # -*- coding: utf-8 -*-
 
+
+"""
+Name: Santhosh Soundararajan
+Indiana University
+Start date: 24th April, 2016
+End date: 26th April, 2016
+Objective: To perform feature extraction
+"""
+
 def feature_extraction(inp_data, count, tfidf_transformer, data = 'train'):
     """
     This function helps to extract the
